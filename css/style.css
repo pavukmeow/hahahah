@@ -83,6 +83,8 @@ header .border{
     display: flex;
     align-content: space-between;
     font-size: 16px;
+    flex-direction: column;
+    flex-basis: 50%;
 }
 .body .P{
     width: 100px;
